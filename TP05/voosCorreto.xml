@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<movimento>
+     <voo codigo="VG456">
+        <origem>CGH</origem>
+        <destino>POA</destino>
+        <horario>14:35</horario>
+        <compania>Varig</compania>
+        <operando>T</operando>
+      </voo>
+      <voo codigo="AZ002">
+        <origem>VCP</origem>
+        <destino>SSA</destino>
+        <horario>18:00</horario>
+        <compania>Azul</compania>
+        <operando>F</operando>
+      </voo>
+      <voo codigo="VG455">
+        <origem>SDU</origem>
+        <destino>SSA</destino>
+        <horario>15:00</horario>
+        <compania>Varig</compania>
+        <operando>T</operando>
+      </voo>
+      <voo codigo="JG013">
+        <origem>POA</origem>
+        <destino>VCP</destino>
+        <horario>12:10</horario>
+        <compania>TAM</compania>
+        <operando>T</operando>
+      </voo>
+      <voo codigo="GG123">
+        <origem>CGH</origem>
+        <destino>FLN</destino>
+        <horario>06:00</horario>
+        <compania>Gol</compania>
+        <operando>F</operando>
+      </voo>
+      <voo codigo="AZ012">
+        <origem>VCP</origem>
+        <destino>SDU</destino>
+        <horario>14:00</horario>
+        <compania>Azul</compania>
+        <operando>T</operando>
+      </voo>
+ </movimento>
+
+
